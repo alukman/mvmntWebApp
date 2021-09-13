@@ -1,2 +1,2 @@
-# mvmntWebApp
-Web Application for MVMNT Service
+# testingJavaSpringApp
+Web Application for testing Java Spring App
